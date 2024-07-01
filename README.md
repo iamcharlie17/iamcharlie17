@@ -4,8 +4,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" alt="Coding GIF" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcharlie17&label=Profile%20views&color=0e75b6&style=flat" alt="iamcharlie17"  /> </p>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge&logo=github)](https://charlie-portfolio-17.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-send%20email-blue?style=for-the-badge&logo=gmail)](mailto:riyadhosen40@gmail.com)
 
