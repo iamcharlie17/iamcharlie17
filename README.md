@@ -29,7 +29,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="center" style="display:flex, gap: 8px">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img width="600" src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs" /><br>
 </div>
@@ -39,11 +39,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align=center >
+  <img width="50%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img  align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&layout=pie&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
