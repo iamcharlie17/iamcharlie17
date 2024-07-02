@@ -1,5 +1,14 @@
-<h1 align="start">Hi, I'm Riyad Hosen</h1>
-<h3 align="start">MERN Stack Developer</h3>
+<p align="center">
+  <a href="https://github.com/iamcharlie17">
+    <h1 align="center" style="color:Tomato;">Riyad Hosen</h1>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20DEVELOPER;SOFTWARE%20ENGINEER;PROGRAMMER;CODER;&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=1000&size=35" /></a>
+</p>
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" alt="Coding GIF" />
 
@@ -34,23 +43,28 @@
     <img width="600" src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs" /><br>
 </div>
 
-</br></br></br>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center >
-  <img width="50%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=dark" alt="streak stats"/>
-  <img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github" alt="readme stats" />
-  <br/>
-  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
 <hr/>
+</br>
 
-<br/>
+ <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/iamcharlie17/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=dark"/>
+    </a>
+  </p>
+
+ <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Github Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
+  <br/>
+
+
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
