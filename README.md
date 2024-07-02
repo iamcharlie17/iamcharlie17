@@ -59,8 +59,8 @@
 
 
  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Github Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github" height="192px" width="400"/></a>
-  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px" width="400"/></a>
+  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Github Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github" height="192px" width="40%"/></a>
+  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px" width="40%"/></a>
   <br/>
 
   
