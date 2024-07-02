@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20DEVELOPER;SOFTWARE%20ENGINEER;PROGRAMMER;CODER;&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=0&size=35" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20DEVELOPER;SOFTWARE%20ENGINEER;PROGRAMMER;CODER;&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=0&size=35" />
 </p>
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
