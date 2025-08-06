@@ -52,6 +52,13 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=dark"/>
     </a>
   </p>
+  
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/iamcharlie17/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thebigby0&count_private=true&theme=dark"/>
+    </a>
+  </p>
 
   
 
