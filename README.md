@@ -1,85 +1,124 @@
 <p align="center">
-  <a href="https://github.com/iamcharlie17">
-    <h1 align="center" style="color:Tomato;">Riyad Hosen</h1>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Riyad%20Hosen&fontSize=55&fontAlign=50&fontAlignY=40&desc=MERN%20Developer%20|%20Software%20Engineer&descAlign=50&descAlignY=65"/>
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20DEVELOPER;SOFTWARE%20ENGINEER;PROGRAMMER;CODER;&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=0&size=35" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;MERN%20Stack%20Developer;Software%20Engineer;Competitive%20Programmer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
 </p>
 
-<!-- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
-<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
-<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamcharlie17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Charlie_iut/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-yellow?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/riyadhosen40)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="420" style="object-fit:cover;" />
 
-<div align="center"> 
-  <h2 align="center">Connect With Me</h2> 
-    <a href="https://charlie-portfolio-17.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-  <a href="mailto:riyadhosen40@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=61553430014777" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://www.linkedin.com/in/riyad-hosen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+---
 
+## 🌐 Connect With Me
 
-</br>
-</br>
+<p align="center">
 
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<a href="https://charlie-portfolio-17.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img width="600" src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs" /><br>
-</div>
+<a href="mailto:riyadhosen40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
 
-<hr/>
-</br>
+<a href="https://www.facebook.com/profile.php?id=61553430014777">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/riyad-hosen/">
+<img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</p>
 
- <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/iamcharlie17/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&count_private=true&theme=dark"/>
-    </a>
-  </p>
-  
- 
+---
 
-  
+## 🧠 Competitive Programming
 
+<p align="center">
 
- <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Github Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&count_private=true&show_icons=true&theme=dark&rank_icon=github" height="192px" width="400"/></a>
-  <a href="https://github.com/iamcharlie17/github-readme-stats"><img alt="Riyad Hosen's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&hide=HTML&langs_count=8&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px" width="430" /></a>
-  <br/>
+<a href="https://leetcode.com/u/Charlie_iut/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-  
+<a href="https://codeforces.com/profile/riyadhosen40">
+<img src="https://img.shields.io/badge/Codeforces-yellow?style=for-the-badge&logo=codeforces"/>
+</a>
 
+</p>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/iamcharlie17/class-edge-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=class-edge-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-    <a href="https://github.com/iamcharlie17/study-buddy-hub-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=study-buddy-hub-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-    <a href="https://github.com/iamcharlie17/real-estate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=real-estate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-  </p>
+---
 
+## ⚒️ Languages • Frameworks • Tools
 
-  <a href="https://github.com/iamcharlie17?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,js,java,c,html,css,tailwind,git,github,vscode,figma" />
+</p>
 
+---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iamcharlie17&theme=algolia&row=1&column=7"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamcharlie17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamcharlie17&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamcharlie17&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamcharlie17&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/iamcharlie17/class-edge-client">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=class-edge-client&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/iamcharlie17/study-buddy-hub-client">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=study-buddy-hub-client&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/iamcharlie17/real-estate">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamcharlie17&repo=real-estate&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Always learning, building and exploring new technologies.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
