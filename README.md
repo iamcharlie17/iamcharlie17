@@ -8,7 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20DEVELOPER;SOFTWARE%20ENGINEER;PROGRAMMER;CODER;&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=0&size=35" />
 </p>
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
+<!-- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Charlie_iut/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-yellow?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/riyadhosen40)
