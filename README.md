@@ -9,7 +9,9 @@
 </p>
 
 <!-- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
+<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" /> -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width='100%' height="400" style="object-fit: cover;" alt="Coding GIF" />
+
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Charlie_iut/)
