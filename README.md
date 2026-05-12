@@ -62,6 +62,10 @@
 
 <br/>
 
+<a href="https://github.com/iamcharlie17/Resume/raw/main/assets/software_dev.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=ff0000"/>
+</a>
+
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
