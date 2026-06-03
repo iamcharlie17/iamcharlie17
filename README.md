@@ -78,7 +78,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,html,css,nodejs,express,mongodb,firebase,git,github,vscode,figma,postman,vercel,netlify,linux,c,java&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,html,css,nodejs,express,mongodb,firebase,git,github,figma,postman,vercel,netlify,linux,c,cpp,java&theme=dark&perline=7" />
 
 </div>
 
